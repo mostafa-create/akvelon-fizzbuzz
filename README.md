@@ -52,9 +52,4 @@ both proportional to the input length.
 in practice — the O(n) above is the general bound if that cap were
 lifted.)
 
-## Build & Run
 
-```bash
-g++ -std=c++17 -O2 -o main main.cpp
-./main
-```
